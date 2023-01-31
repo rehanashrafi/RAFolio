@@ -127,16 +127,13 @@ header {
 /*================= End-Navbar ===================*/
 
 /* ============Start-hero-section ===================== */
-#hero-section {
+.hero-div {
+    text-align: center;
+    padding: 2rem;
     background: url(/image/hero-section.png);
     background-repeat: no-repeat;
     background-position-y: top;
     background-position-x: right;
-}
-
-.hero-div {
-    text-align: center;
-    padding: 2rem;
 }
 
 .hero-div {
@@ -332,7 +329,7 @@ header {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: crimson;
+    color: var(--red);
 }
 
 .service-box .service-ico-circle i {

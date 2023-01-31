@@ -55,12 +55,10 @@
 
   .hero-div {
     text-align: center;
-    padding: 0rem 0px 11rem 0px !important;
-
+    padding: 9rem 0px 9rem 0px !important;
   }
 
   .hero-heading {
-    padding-top: 13rem;
     font-size: 3rem !important;
   }
 
@@ -145,13 +143,6 @@
 }
 
 @media (min-width: 414px) and (max-width: 896px) {
-  .hero-heading {
-    padding-top: 20rem !important;
-  }
-
-  /* .d-flex {
-    padding-left: 2.4rem !important;
-  } */
   .card-blog .card-category-box {
     bottom: 13.31rem !important;
   }
@@ -162,17 +153,8 @@
 
 }
 
-@media (min-width: 390px) and (max-width: 844px) {
-  .hero-heading {
-    padding-top: 18rem !important;
-  }
-}
 
 @media (min-width: 393px) and (max-width: 851px) {
-
-  /* .d-flex {
-  padding-left: 0.8rem !important;
-} */
   footer {
     padding: 0px 0px 71px 0px;
   }
