@@ -140,6 +140,9 @@
   .card-blog .card-category-box {
     bottom: 14.9rem !important;
   }
+  .back-to-top i{
+    margin-right: 21px;
+  }
 }
 
 @media (min-width: 414px) and (max-width: 896px) {
@@ -180,8 +183,9 @@
   .card-blog .card-category-box {
     bottom: 18.29rem !important;
   }
-
-
+  .back-to-top {
+    right: auto;
+  }
   .sect-pt4 {
     padding: 0rem !important;
   }
